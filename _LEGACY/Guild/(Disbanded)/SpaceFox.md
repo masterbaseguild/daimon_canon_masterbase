@@ -1,0 +1,12 @@
+ClanWars - torneo di combattimento libero a squadre organizzato da spacefox
+ - partecipanti:
+	 - New WhiteDemons (Las)
+	 - No Fear (Alony)
+	 - SK Destroyers (Zephyr)
+	 - One Shot
+	 - Dark Cobras
+	 - Dark Knights
+	 - Young Fighters (Loris)
+	 - OP Clan
+	 - Virtus Catchers (Rattly, Lee)
+	 - Liberatus

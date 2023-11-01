@@ -1,0 +1,1 @@
+Di queste schede personaggio dobbiamo inserire i dati nel database.

@@ -1,0 +1,11 @@
+ - primo esperimento di lega, 2v2, cancellato causa guerra
+ - partecipanti:
+	    - MC Torino
+	    - Patriots Cagliari
+	    - Toritto 2019
+	    - MC Napoli
+	    - Federaciòn de Madrid
+	    - FM Secondigliano (Shalida)
+	    - MC Milano
+	    - AGS Roma
+	    - MasterBase (Entity)

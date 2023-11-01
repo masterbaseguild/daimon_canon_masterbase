@@ -1,0 +1,1 @@
+La Crimson Sphere è stata una [[Guild|gilda]] della [[Map/Alpha Sphere/Alpha Sphere|sfera Alpha]].

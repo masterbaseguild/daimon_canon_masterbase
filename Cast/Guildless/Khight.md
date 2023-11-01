@@ -1,0 +1,1 @@
+Khight è stato un [[Glossary/Quester|quester]] pirata.

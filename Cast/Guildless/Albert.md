@@ -1,0 +1,1 @@
+Albert è stato un [[Glossary/Quester|quester]] ingegnere della [[Cast/Olympus Foundation/Olympus Foundation|Olympus Foundation]].

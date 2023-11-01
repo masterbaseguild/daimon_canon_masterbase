@@ -1,0 +1,2 @@
+Tiranno di Medira, gestisce la Gilda con pugno di ferro per conto dei Piani Alti. E' con lui che la MasterBase mantiene tutti i rapporti relativi alla collaborazione della Master League Zero, tuttavia osservando il suo modus operandi i Masters cominciano a nutrire dubbi sull'effettiva positività di tale collaborazione.
+Dopo il termine della Master League Zero, Medira si libera di Crispi, per poi chiudere subito dopo.

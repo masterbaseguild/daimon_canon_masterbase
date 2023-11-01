@@ -1,0 +1,5 @@
+[[Galathaar]]
+
+“Giudice, Giuria e Boia. I volti della morte. La rabbia delle vittime. La giustizia Divina. Tutto racchiuso in ingranaggi di ferro, ricoperti da altro ferro, alimentato dalla magia più oscura e dal sangue versato.”
+Una mostruosità d’acciaio che ha preso vita nei sotterranei del palazzo reale. Si dice che il Re lo abbia commissionato alla più brava strega del suo regno dopo la sua cattura in cambio di una posizione in politica e della assoluzione delle sue colpe. Dopo la creazione del golem però, se ne sono perse le tracce. Ora questa creatura senziente e intelligente dalle frammentate personalità fa da Boia di corte, e da spauracchio per i criminali.
+La sua ascia è stata forgiata da una magia più pura della sua, per fortuna. Si dice comunque che una volta emanato il suo verdetto sulla tua testa, l’unica cosa che ti resta da fare è pregare.

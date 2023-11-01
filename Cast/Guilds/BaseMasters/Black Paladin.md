@@ -1,0 +1,1 @@
+Black Paladin è un ex-[[Glossary/Quester|quester]] dei [[Cast/Guilds/BaseMasters/BaseMasters|BaseMasters]], e ospite della [[Cast/Guilds/MasterBase/MasterBase|MasterBase]].

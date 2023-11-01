@@ -1,0 +1,1 @@
+Di queste schede personaggio dobbiamo inserire i dati nel database, e inserire le storyline nelle biografie della wiki ufficiale

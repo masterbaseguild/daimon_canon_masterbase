@@ -1,0 +1,3 @@
+[[_LEGACY/_MASTERBASE_CHRONICLES/MasterBase]]
+
+Mecha
