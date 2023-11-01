@@ -1,0 +1,3 @@
+ - quarta lega, questa volta si combatte 5v5
+ - i romita dominano la competizione
+ - cancellato causa riallocamento risorse

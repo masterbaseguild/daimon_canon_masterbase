@@ -1,0 +1,4 @@
+Maga Eremita Iphiridiana, vive sola nella sperduta regione di Phiclidia, dove si dice uccida chiunque si avvicini alla sua dimora
+In realtà, si tratta di voci sparse dalla Xadrium, che ha stabilito il proprio quartier generale nei paraggi. Hyberna lo sa, e sta effettuando ricerche al riguardo.
+Tuttavia, ciò che un tempo erano dicerie si trasforma in verità, dato che per sopravvivere abbastanza a lungo da scoprire che cosa ha in mente la Xadrium, Hyberna deve liberarsi degli intrepidi avventurieri lanciatisi alla caccia di quest'ultima.
+Viene raggiunta da Entity, giunto lì per lo stesso motivo, ma prima di morire consiglia a quest'ultimo di abbandonare il pianeta, dato che "qualcuno ci ha messo gli occhi sopra, e quel qualcuno non ha intenzione di fermarsi finchè non avrà ottenuto ciò che vuole".

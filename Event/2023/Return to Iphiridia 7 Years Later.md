@@ -1,0 +1,6 @@
+ - 7 Anni Dopo, la MasterBase ritorna su Iphiridia.
+ - Stavolta, sono decisamente più forti, e la piaga zombie viene spazzata via senza particolari problemi.
+ - La Città di Archen viene ritrovata, e anche la Città di Navirad.
+ - Inoltre, ad Archen viene ritrovato Vlad, un membro dell'AegiftHere, che tutti credevano morto
+ - In realtà, Vlad era sopravvissuto, e aveva continuato a farlo per 5 lunghi anni da solo, attendendo il ritorno di una qualche forma di vita intelligente sul pianeta.
+ - Vlad viene reintegrato come Master e Iphiridia diventa una nuova Colonia Master.

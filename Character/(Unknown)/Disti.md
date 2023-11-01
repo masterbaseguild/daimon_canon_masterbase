@@ -1,0 +1,2 @@
+Braccio sinistro di Ale durante la guerra SF vs WG, Disti è un combattente e costruttore incredibilmente dotato: ha capacità in un numero enorme di campi, ed è noto per essersi fabbricato da sè tutte le sue armi. Al momento, svolge un ruolo fondamentale nella coordinazione delle colonie su Syteel.
+Tuttora disperso dopo una spedizione

@@ -1,0 +1,2 @@
+ - Xilvyn, Pianeta "Gemello" di Syteel estremamente povero, le sue popolazioni si combattono a vicenda per il controllo delle poche risorse presenti
+ - verrà aperto un portale tra i due pianeti e sarà usato dagli Xilviani per giungere su Syteel

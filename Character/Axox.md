@@ -1,0 +1,1 @@
+Duellista con doppia spada, combatte in prima linea come skirmisher.

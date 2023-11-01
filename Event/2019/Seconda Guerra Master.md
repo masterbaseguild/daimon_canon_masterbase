@@ -1,0 +1,2 @@
+Cinder, un ex membro della WorldOrder, fonda la propria Gilda, la Spacer; in un primo momento è alleato della MasterBase, ma dopo averla sfruttata per ottenere risorse e tecnologie, i Master dichiarano guerra.
+La MasterBase trionfa, e la sede della Spacer viene completamente distrutta.

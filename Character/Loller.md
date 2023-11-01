@@ -1,0 +1,1 @@
+Pistolero micidiale, si specializza nell'infiltrazione nelle retrovie, dove il suo compito è assassinare bersagli di alto rango, così da far collassare l'organizzazione nemica.

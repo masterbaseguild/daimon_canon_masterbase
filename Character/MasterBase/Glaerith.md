@@ -1,0 +1,3 @@
+[[MasterBase]]
+
+Cugina di Entity.

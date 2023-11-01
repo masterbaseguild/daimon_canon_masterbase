@@ -1,0 +1,13 @@
+Membri della Famiglia Kenny
+- Yuki unico sopravvissuto al massacro
+- Rah'el Kenny: madre di Yuki, di origine ebraica. Deceduta
+- Oliver Kenny: padre di Yuki, di origine irlandese. Deceduto
+- Nessuna traccia di fratelli o sorelle, questi dati sono andati perduti
+
+**Storia**
+La Famiglia Kenny nasce dall'incontro tra Oliver Kenny e Rah'el. Oliver era uno scenziato molto rinomato ma anche estremamente temuto, le sue ricerche erano molto specifiche 
+e ammirate da tutto il mondo, soprattutto dalla criminalità. Decide di interrompere gli studi per dedicarsi alla vita privata, finché non incontra Rah'el, ex-fedele della religione ebraica; era un membro di una setta segreta che predicava l'uso della magia attraverso le divinità (questa setta è una versione alternativa dei testimoni di geova, con le stesse regole e restrizioni). Rah'el decide di scappare dalla setta per poter vivere una vita normale, diventa quindi una "cosmopolita", vaga senza meta alla ricerca della libertà. Incontra Oliver durante un meeting nazionale sulla ricerca scentifica, e da lì nascerà la famiglia Kenny.
+Da quì in poi l'obbiettivo della famiglia diventerà quello di creare una nuova forma di magia, unendola alla tecnologia, l'intento era quello di sfruttare l'unione tra i seguenti mezzi per poter migliorare la vita delle persone, ma scoprirono solo dopo che questo era un effettivo tabù, non risolvibile attraverso le normali conoscenze umane dell'epoca. Oliver era un uomo scaltro, sapeva che queste ricerche potevano essere dannose per il mondo, perciò si finse morto insieme alla moglie, e si trasferirono in Italy, nella South Regium, dove creeranno un laboratorio clandestino in cui continuare le loro ricerche.
+Yuki (Yosef Kenny) nacque si dalle necessità amorose della famiglia e dalla voglia di avere un erede, ma soprattutto nacque come ancora di salvezza per le loro ricerche.
+
+Poco dopo che Yuki compie 14 anni, la Famlglia Kenny viene trucidata davanti ai suoi occhi da Asgard (Yuki non era a conoscenza delle ricerche dei suoi genitori, sapeva soltanto che erano degli scenziati al servo della comunità scientifica), che volevano impadronirsi di quelle ricerche maestose che tanto desideravano gli Xadrium, ma riesce a salvarsi grazie all'intervento di Sales (viene ingaggiato dalla Famiglia Kenny qualche settimana prima del massacro; a seguito di alcuni eventi, Oliver e Rah'el compresero che la loro vita sarebbe finita nel breve termine, perciò inserirono le loro ricerche nel Chip Neurale di Yuki, e diedero a Sales il compito di proteggerlo da un destino orribile)

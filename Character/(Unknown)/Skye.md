@@ -1,0 +1,1 @@
+Per un periodo, partecipò alle operazioni della MasterBase.

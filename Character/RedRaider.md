@@ -1,0 +1,1 @@
+Armato di spada e emettitori di onde sensoriali, si occupa di infiltrazione e operazioni di sabotaggio, dove stordisce gli avversari e li lascia vulnerabili.

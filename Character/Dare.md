@@ -1,0 +1,1 @@
+Dare è un ospite della MasterBase. Reclutato da Entity, a partire dal 2021 ha preso parte ad alcune operazioni promosse dalla Gilda; in particolare, si è fatto notare durante il Golden Boar DeathMatch, portando la sua squadra al podio nonostante il ritiro prematuro di Entity.

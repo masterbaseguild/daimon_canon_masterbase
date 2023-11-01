@@ -1,0 +1,1 @@
+Amico di Emily, nonchè sua antica fiamma, prese parte ad alcune operazioni della MasterBase dal 2021 al 2022.

@@ -1,0 +1,1 @@
+Hackera arc e distrugge la masterbase dall'interno
