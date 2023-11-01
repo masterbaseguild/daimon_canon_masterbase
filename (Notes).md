@@ -6,9 +6,6 @@ MICRO
 - Canonizzare Artwork e Musica
 - Stilare Lista di Priorità
 
-CODE
-- Creare Sistema con Git e Daimon
-
 MACRO
 - Scrivere tutta la Lore
 - Aggiungere Sketches
