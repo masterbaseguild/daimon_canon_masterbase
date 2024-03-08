@@ -6,7 +6,6 @@
 - [ ] Lore Release
 - [ ] Lore Production Rework
 
-
 # Concetti da sistemare
 
 - Cos'è l'AegiftHere?
@@ -18,6 +17,7 @@
 - Pianeti di razze classiche (elfi, orchi, nani)
 - Inventory
 - Morte dei personaggi
+
 # Eventi da sistemare
 
 - The Kenny Massacre
@@ -95,6 +95,7 @@
 - Silver
 - Zayron
 - Yuki
+- Raiden
 
 # Locations da sistemare
 
