@@ -55,6 +55,13 @@
 - Anark
 	- Simon
 	- Richard
+- Nexus
+	- Vally
+	- Mora
+- Vladi
+	- Vladix
+	- Dev
+- Tech Priest (Guild)
 - Fall (Guild)
 - Kenny Family (Guild)
 - Medira (Guild)
@@ -86,16 +93,17 @@
 - Dany
 - Krisp
 - Crafter
-- Damashi
 - Bede
 - Flavia
-- Jey
 - Pollerink
 - Shane
 - Silver
 - Zayron
 - Yuki
 - Raiden
+- Khight
+- Martif
+- Shadow
 
 # Locations da sistemare
 
