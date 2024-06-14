@@ -1,3 +1,0 @@
-[[Olympus Foundation]]
-
-Gadget Fightress
