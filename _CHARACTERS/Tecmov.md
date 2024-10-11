@@ -1,7 +1,7 @@
 # Appearance
 
 - ### Gender: male
-- ### Race: human
+- ### Race: [[_RACES/Earthling]]
 - ### Body:
 	- vedi concepts
 - ### Outfit:
@@ -12,6 +12,7 @@
 - ### Weapons:
 	- custom blade
 		- lightsaber backblade
+	- battle drone
 
 - ### Skills:
 	- dual-blade sword

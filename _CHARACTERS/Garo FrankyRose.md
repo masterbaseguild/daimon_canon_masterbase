@@ -1,7 +1,7 @@
 # Appearance
 
 - ### Gender: male
-- ### Race: gondran
+- ### Race: [[_RACES/Gondran]]
 - ### Body:
 	- vedi concepts
 - ### Outfit:
@@ -19,6 +19,7 @@
 		- pure firebending
 	- ethereal taming
 	- stealth
+	- combattimento con zanna dorsale
 
 # Narrative
 

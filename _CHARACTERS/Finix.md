@@ -1,7 +1,7 @@
 # Appearance
 
 - ### Gender: female
-- ### Race: human
+- ### Race: [[_RACES/Earthling]]
 - ### Body:
 	- pelle scura
 	- capelli rossi

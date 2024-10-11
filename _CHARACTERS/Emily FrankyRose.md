@@ -1,7 +1,7 @@
 # Appearance
 
 - ### Gender: female
-- ### Race: gondran
+- ### Race: [[_RACES/Gondran]]
 - ### Body: 
 	- vedi concepts
 - ### Outfit:
@@ -18,6 +18,7 @@
 		- ice armspike
 		- ice final armor
 	- stealth
+	- combattimento con zanna dorsale
 
 # Narrative
 
