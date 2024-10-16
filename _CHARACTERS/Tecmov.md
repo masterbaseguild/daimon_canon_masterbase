@@ -1,7 +1,7 @@
 # Appearance
 
 - ### Gender: male
-- ### Race: [[_RACES/Earthling]]
+- ### Race: [[Earthling]]
 - ### Body:
 	- vedi concepts
 - ### Outfit:
@@ -28,7 +28,8 @@
 	- membro degli 8 masters fondatori della masterbase
 		- role: engineer
 - ### Personality:
-	- TODO
+	- autistico
+	- da definire
 - ### Backstory:
 	- serve la olympus per anni come ingegnere, ma a causa delle sue difficolta' di collaborazione rischia l'espulsione
 	- riceve come ultimo incarico la costruzione della masterbase, dopodiche' abbandona il suo posto nella olympus come master fondatore

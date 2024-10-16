@@ -1,7 +1,7 @@
 # Appearance
 
 - ### Gender: male
-- ### Race: [[_RACES/Gondran]]
+- ### Race: [[Gondran]]
 - ### Body:
 	- vedi concepts
 - ### Outfit:
@@ -30,8 +30,8 @@
 	- uno degli 8 master fondatori della masterbase
 		- role: spionaggio, assassinio
 - ### Personality:
-	- TODO
 	- associa le proprie armi con i periodi della sua vita, e abbandonarle quando sente di essere a un punto di svolta
+	- da definire
 - ### Backstory:
 	- membro attivo della famiglia franky per molti anni, svolge il ruolo di gangster e usuraio, non senza rimorsi
 	- inviato su iphiridia, assiste all'incidente di nexus, dove i suoi due fratelli adottivi vengono uccisi da entity

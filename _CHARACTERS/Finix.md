@@ -1,7 +1,7 @@
 # Appearance
 
 - ### Gender: female
-- ### Race: [[_RACES/Earthling]]
+- ### Race: [[Earthling]]
 - ### Body:
 	- pelle scura
 	- capelli rossi
@@ -30,11 +30,11 @@
 		- role: marksman/battle healer
 		- masterbase band
 - ### Personality:
-	- TODO
 	- dotata di eccellenti doti canore, fa parte della band ufficiale della masterbase, insieme a cui allieta le serate alla masteria
+	- da definire
 - ### Backstory:
 	- conosce aledge durante la sua permanenza in spacefox, fino alla caduta della gilda
 	- nel 2020, raggiunge aledge, adesso membro della masterbase, e ne entra a far parte a sua volta
 	- nel 2022 stringe amicizia con molti membri dei lignum nobili
 - ### Arcs:
-	- TODO
+	- da definire

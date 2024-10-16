@@ -1,7 +1,7 @@
 # Appearance
 
 - ### Gender: male
-- ### Race: [[_RACES/Earthling]]
+- ### Race: [[Earthling]]
 - ### Body:
 	- vedi concepts
 - ### Outfit:
@@ -30,7 +30,7 @@
 	- leader degli 8 masters fondatori
 	- fratello di wall e cugino di grosta
 - ### Personality:
-	- TODO
+	- da definire
 - ### Backstory:
 	- si unisce alla anark, dove fornisce un apporto eccessivamente zelante
 	- a causa di cio', la gilda subisce gravissimi perdite nel disastro di iphiridia, causandone lo scioglimento

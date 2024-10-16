@@ -1,3 +1,0 @@
-[[MasterBase]]
-
-Veterano della MasterBase.

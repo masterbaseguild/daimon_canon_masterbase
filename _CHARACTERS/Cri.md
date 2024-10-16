@@ -1,7 +1,7 @@
 # Appearance
 
 - ### Gender: male
-- ### Race: [[_RACES/Earthling]]
+- ### Race: [[Earthling]]
 - ### Body:
 	- vedi concepts
 - ### Outfit:
@@ -29,7 +29,7 @@
 		- role: pilota
 	- fratello di entity e cugino di grosta
 - ### Personality:
-	- TODO
+	- da definire
 - ### Backstory:
 	- si unisce alla anark dietro invito di entity
 	- durante il disastro di iphiridia, perde un braccio, sostituito poi da tecmov con un braccio bionico

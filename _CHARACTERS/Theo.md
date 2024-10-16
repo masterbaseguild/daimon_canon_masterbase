@@ -1,7 +1,7 @@
 # Appearance
 
 - ### Gender: male
-- ### Race: [[_RACES/Earthling]]
+- ### Race: [[Earthling]]
 - ### Body:
 	- vedi concepts
 - ### Outfit:
@@ -22,7 +22,7 @@
 	- ex-membro fondatore della anark
 	- membro degli 8 masters fondatori della masterbase
 - ### Personality:
-	- TODO
+	- da definire
 - ### Backstory:
 	- conosce gavil, segretamente membro della olympus
 	- curiosando in casa sua scopre il suo vault di armi, e ne ruba qualcuna

@@ -1,7 +1,7 @@
 # Appearance
 
 - ### Gender: male
-- ### Race: [[_RACES/Earthling]]
+- ### Race: [[Earthling]]
 - ### Body:
 	- vedi concepts
 - ### Outfit:
@@ -25,11 +25,11 @@
 	- ex-gladiatore della olympus
 	- membro degli 8 masters fondatori
 - ### Personality:
-	- TODO
+	- da definire
 - ### Backstory:
 	- combatte al servizio della olympus per tre anni, durante i quali predilige il ring dei tornei di combattimento interni della fondazione
 	- a uno di questi tornei conosce entity, che lo recluta nella neonata masterbase
 	- per sfidare se stesso, chiede a nephasto di insegnargli le arti magiche, e abbandona l'arte della spada
 	- sfiora la morte durante la campagna mastercon
 - ### Arcs:
-	- TODO
+	- da definire

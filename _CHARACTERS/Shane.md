@@ -1,7 +1,7 @@
 # Appearance
 
 - ### Gender: male
-- ### Race: [[_RACES/Earthling]]
+- ### Race: [[Earthling]]
 - ### Body:
 	- pelle mulatta
 - ### Outfit:
@@ -33,4 +33,4 @@
 	- svolge un ruolo chiave nella fortificazione delle colonie su iphiridia, e ricopre a singhiozzo il ruolo di guardia della citta' di arken
 - ### Arcs:
 	- appena entrato nella masterbase, a causa degli elogi dei suoi compagni, shane si convinse che la chiave per essere ben voluto dalle altre persone fosse lavorare durissimo, fino a scoppiare. shane dovette rendersi conto che l'apprezzamento degli altri non era in realta' legato alla sua performance, bensi' a lui come persona.
-	- TODO
+	- da definire

@@ -1,7 +1,7 @@
 # Appearance
 
 - ### Gender: male
-- ### Race: [[_RACES/Earthling]]
+- ### Race: [[Earthling]]
 - ### Body:
 	- vedi concepts
 - ### Outfit:
@@ -23,8 +23,9 @@
 # Narrative
 
 - ### Alignment:
+	- masterbase
 - ### Personality:
-	- 
+	- da definire
 - ### Backstory:
 	- nephasto nasce in una famiglia segreta di maghi, e viene addestrato in potentissime arti magiche
 	- si unisce agli anark, e ne fa parte fino alla loro disfatta

@@ -1,7 +1,7 @@
 # Appearance
 
 - ### Gender: female
-- ### Race: [[_RACES/Gondran]]
+- ### Race: [[Gondran]]
 - ### Body: 
 	- vedi concepts
 - ### Outfit:
@@ -30,7 +30,7 @@
 	- una degli 8 master fondatori della masterbase
 		- ruolo: spionaggio, assassinio
 - ### Personality:
-	- TODO
+	- da definire
 - ### Backstory:
 	- nata e cresciuta nella famiglia frankyrose, stringe un legame fraterno indissolvibile con il cugino garo
 	- non condividendo lo stile di vita criminale della sua famiglia, abbandona l'anello e si rifugia su fray
@@ -39,4 +39,4 @@
 	- dopo aver sentito parlare della masterbase, abbandona la famiglia reale ed entra a farne parte
 	- in seguito, guidera' una missione organizzata dalla masterbase per salvare garo dalla famiglia frankyrose, e nell'occasione reclutare anche yuki
 - ### Arcs:
-	- TODO
+	- da definire
