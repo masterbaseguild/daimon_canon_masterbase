@@ -5,9 +5,9 @@
 (medium)
 
 # Colors
-- ### Hair Color: <span style="color: #FFFFFF;">■</span> (dark blond)
-- ### Eye Color: <span style="color: #FFFFFF;">■</span> (green)
-- ### Skin Color: <span style="color: #FFFFFF;">■</span> (da definire)
+- ### Hair Color: ![■](https://placehold.co/15x15/FFFFFF/FFFFFF) (dark blond)
+- ### Eye Color: ![■](https://placehold.co/15x15/FFFFFF/FFFFFF) (green)
+- ### Skin Color: ![■](https://placehold.co/15x15/FFFFFF/FFFFFF) (da definire)
 # Levels
 - ### Height Level: 2
 - ### Muscle Level: 2

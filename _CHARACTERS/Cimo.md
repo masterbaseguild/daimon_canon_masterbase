@@ -5,9 +5,9 @@
 [[Ereh]]
 
 # Colors
-- ### Hair Color: <span style="color: #69350e;">■</span>
-- ### Eye Color: <span style="color: #169a10;">■</span>
-- ### Skin Color: <span style="color: #aebbae;">■</span>
+- ### Hair Color: ![■](https://placehold.co/15x15/69350e/69350e)
+- ### Eye Color: ![■](https://placehold.co/15x15/169a10/169a10)
+- ### Skin Color: ![■](https://placehold.co/15x15/aebbae/aebbae)
 # Levels
 - ### Height Level: 4/5
 - ### Muscle Level: 4/5

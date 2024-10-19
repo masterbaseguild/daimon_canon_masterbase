@@ -5,9 +5,9 @@
 [[Medium Back Upper Brush]]
 
 # Colors
-- ### Hair Color: <span style="color: #FFFFFF;">■</span> (da decidere)
-- ### Eye Color: <span style="color: #FFFFFF;">■</span> (da decidere)
-- ### Skin Color: <span style="color: #FFFFFF;">■</span> (da decidere)
+- ### Hair Color: ![■](https://placehold.co/15x15/FFFFFF/FFFFFF) (da definire)
+- ### Eye Color: ![■](https://placehold.co/15x15/FFFFFF/FFFFFF) (da definire)
+- ### Skin Color: ![■](https://placehold.co/15x15/FFFFFF/FFFFFF) (da definire)
 # Levels
 - ### Height Level: 2
 - ### Muscle Level: 2

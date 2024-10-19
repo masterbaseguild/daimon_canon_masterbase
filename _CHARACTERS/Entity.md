@@ -5,9 +5,9 @@
 [[Long Side Brush]]
 
 # Colors
-- ### Hair Color: <span style="color: #733030;">■</span>
-- ### Eye Color: <span style="color: #02030e;">■</span>
-- ### Skin Color: <span style="color: #ffe9e9;">■</span>
+- ### Hair Color: ![■](https://placehold.co/15x15/733030/733030)
+- ### Eye Color: ![■](https://placehold.co/15x15/02030e/02030e)
+- ### Skin Color: ![■](https://placehold.co/15x15/ffe9e9/ffe9e9)
 # Levels
 - ### Height Level: 3
 - ### Muscle Level: 3
