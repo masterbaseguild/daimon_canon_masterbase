@@ -1,36 +1,21 @@
-# Appearance
+# Gender: M
+# Race:
+[[Vernian]]
+# Hairstyle:
+(medium)
 
-- ### Gender: male
-- ### Race: [[Vernian]]
-- ### Body:
-	- height: 2/5
-	- muscle level: 2/5
-	- fat level: 1/5
-	- eye color: green
-	- hair color: dark blond
-	- hairstyle: nord
-- ### Outfit:
-	- armatura pesante
-
-# Combat
-
-- ### Weapons:
-	- warhammer
-
-- ### Skills:
-	- warhammer
-	- dynamic magic
-		- power attacks
-	- metamaterial magic
-		- teleportation
-
-# Narrative
-
-- ### Alignment:
-	- masterbase
-- ### Personality:
-	- da definire
-- ### Backstory:
-	- si unisce alla masterbase su invito diretto di entity
-- ### Arcs:
-	- da definire
+# Colors
+- ### Hair Color: <span style="color: #FFFFFF;">■</span> (dark blond)
+- ### Eye Color: <span style="color: #FFFFFF;">■</span> (green)
+- ### Skin Color: <span style="color: #FFFFFF;">■</span> (da definire)
+# Levels
+- ### Height Level: 2
+- ### Muscle Level: 2
+- ### Fat Level: 1
+# Traits:
+- n/a
+# Equipment:
+- [[Master Warhammer]]
+- [[Metamaterial Magic]]
+	- [[Teleportation]]
+- [[Dynamic Magic]]

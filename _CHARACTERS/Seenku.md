@@ -1,31 +1,20 @@
-# Appearance
+# Gender: F
+# Race:
+[[Vulture]]
+# Hairstyle:
+[[Long Wide Messy Curly]]
 
-- ### Gender: female
-- ### Race: [[Vulture]]
-- ### Body:
-	- vedi concepts
-- ### Outfit:
-	- armatura pesante
-	- divisa master
-	- [[Master wing support]]
-
-# Combat
-
-- ### Weapons:
-	- zweihander
-
-- ### Skills:
-	- volo
-	- zweihander
-
-# Narrative
-
-- ### Alignment:
-	- membro della masterbase
-		- role: tank, fighter
-- ### Personality:
-	- da definire
-- ### Backstory:
-	- si unisce alla masterbase dietro invito di aledge
-- ### Arcs:
-	- da definire
+# Colors
+- ### Hair Color: <span style="color: #f17c39;">■</span>
+- ### Eye Color: <span style="color: #ae8279;">■</span>
+- ### Skin Color: <span style="color: #ffc9ad;">■</span>
+# Levels
+- ### Height Level: 1-5 (da definire)
+- ### Muscle Level: 1-5 (da definire)
+- ### Fat Level: 1-5 (da definire)
+# Traits:
+- n/a
+# Equipment:
+- [[Master Zweihander]]
+- [[Master Heavy Armor]]
+- [[Dynamic Magic]]

@@ -1,21 +1,19 @@
 # Gender: M
 # Race:
-[[Earthling]]
+[[Gondran]]
 # Hairstyle:
-(da definire)
+[[Long Upper Brush]]
 
 # Colors
 - ### Hair Color: <span style="color: #FFFFFF;">■</span> (da definire)
 - ### Eye Color: <span style="color: #FFFFFF;">■</span> (da definire)
 - ### Skin Color: <span style="color: #FFFFFF;">■</span> (da definire)
 # Levels
-- ### Height Level: 4
-- ### Muscle Level: 2
-- ### Fat Level: 1
+- ### Height Level: 1-5 (da definire)
+- ### Muscle Level: 1-5 (da definire)
+- ### Fat Level: 1-5 (da definire)
 # Traits:
-- n/a
+- coda gondrana
 # Equipment:
-- [[Master Heavy Armor]]
-- Multiple [[Master Throwing Axe]]
-- [[Dynamic Magic]]
-	- [[Leap of Faith]]
+- [[Daimon Pact]]
+- [[Master Hook]]
