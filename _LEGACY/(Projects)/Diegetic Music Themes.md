@@ -1,0 +1,7 @@
+- Ballad of the Undying Wanderer
+- Tales from New Arken
+- Advernian League Anthem
+- MasterBase Anthem
+- MasterBase Nostalgia
+- MBL Anthem
+- Lignum Nobili Anthem

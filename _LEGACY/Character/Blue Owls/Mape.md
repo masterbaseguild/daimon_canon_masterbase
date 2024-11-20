@@ -1,0 +1,4 @@
+Neanche lui conosce bene la natura dei suoi poteri, sa solo che riesce a generare scariche simili a fulmini e che può immagazzinarle a suo piacimento, come effetto secondario i suoi occhi brillano con una luce bianca come i fulmini Biography: Si sa poco del suo passato ( per ora ), ha conosciuto Alony molto tempo fa ed ha partecipato all'Uprising prima di scomparire nuovamente. E' sempre in viaggio ed un giorno, mentre era temporaneamente nella space hall di una gilda che ad oggi chiamiamo Arpeggio, ha assistito al litigio tra Alony e Christian contro Deat ed alla loro espulsione, decide cosi di opporsi ma viene espulso a sua volta, dopo poco diventa uno dei fondatori dei Gufi Blu
+non si sa nulla del suo passato, semplicemente è nei gufi blu ed ha scoperto il suo potere ( i fulmini bianchi assurdi ), inoltre il bro ha la pelle bianca ma tutto il resto è nero
+Porta il badge della MasterBase a testa in giù perchè gli piace fare incazzare Entity
+Tuttora esiliato

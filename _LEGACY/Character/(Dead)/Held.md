@@ -1,0 +1,1 @@
+Resistenza, muore durante la prima guerra master.

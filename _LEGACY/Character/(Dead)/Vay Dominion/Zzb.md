@@ -1,0 +1,1 @@
+Uno dei due fratelli vay, muore ucciso da entity durante la masquerade

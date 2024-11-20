@@ -1,0 +1,1 @@
+Garo Vay recupera Emily Vay da Gondraw e la invita sulla MasterBase

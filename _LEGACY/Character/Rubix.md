@@ -1,0 +1,1 @@
+Rubix è un compagno di operazioni di Giaco. Venne introdotto alla MasterBase nel 2020, e da allora si presta talvolta a contribuire a quest e operazioni di vario genere. Tuttavia, non è mai entrato effettivamente a fare parte della MasterBase: al momento, lavora come lupo solitario.

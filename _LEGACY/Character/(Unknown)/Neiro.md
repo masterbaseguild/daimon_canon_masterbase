@@ -1,0 +1,1 @@
+Ricercatore dei Reaper Mask, disgustato dalle azioni del suo superiore decide di dare ad Alb e Entity i codici per il sistema madre della Space Hall dei MHZ.

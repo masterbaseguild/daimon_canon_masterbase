@@ -1,0 +1,1 @@
+Giaco è un collaboratore esterno della MasterBase, nonchè ex membro.

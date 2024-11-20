@@ -1,0 +1,1 @@
+Durante uno dei tanti tornei organizzati dal circolo di spada della Olympus, Jey, uno dei contendenti più forti, conosce Entity. In seguito, abbandonerà il circolo per unirsi alla MasterBase.

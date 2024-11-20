@@ -1,0 +1,1 @@
+Zets è un ospite della MasterBase, conosciuto a bordo della StarBase Role. Ogni tanto, prende parte ad alcune operazioni.
