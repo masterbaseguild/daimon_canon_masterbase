@@ -1,4 +1,4 @@
-[[MasterBase]]
+[[_LEGACY/_MASTERBASE_CHRONICLES/MasterBase]]
 
 Leader Fondatore di SoS
 Dopo lo scioglimento, si unisce alla MasterBase

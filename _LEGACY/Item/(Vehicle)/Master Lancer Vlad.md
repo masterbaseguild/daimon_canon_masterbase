@@ -1,3 +1,3 @@
-[[MasterBase]]
+[[_LEGACY/_MASTERBASE_CHRONICLES/MasterBase]]
 
 Humanoid

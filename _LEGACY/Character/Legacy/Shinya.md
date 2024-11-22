@@ -1,4 +1,4 @@
-[[MasterBase]]
+[[_LEGACY/_MASTERBASE_CHRONICLES/MasterBase]]
 
 Velocista dotato di spada, combatte in prima linea.
 

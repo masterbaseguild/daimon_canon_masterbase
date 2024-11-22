@@ -1,4 +1,4 @@
-[[MasterBase]]
+[[_LEGACY/_MASTERBASE_CHRONICLES/MasterBase]]
 
 Giunge sulla MasterBase
 Si unisce a Medira dopo la conclusione della Master League Zero

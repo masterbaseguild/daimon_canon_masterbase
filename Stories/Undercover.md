@@ -10,7 +10,7 @@ La voce di Alony riechieggiava nell'auricolare di Emily, appena intrufolatasi ne
 
 Ignaro di qualsiasi cosa, un guardiano stava per voltare l'angolo, quando all'improvviso vide sbucare da dietro il muro la punta di una freccia.
 
-"E' davvero ironico, sono tanto presi a difendersi dai proiettili che paradossalmente il modo più efficace per toglierli di mezzo è usare arco e frecce," sorrise Emily, notando la tuta antiproiettile che  avvolgeva il corpo senza vita del malcapitato.
+"E' davvero ironico, sono tanto presi a difendersi dai proiettili che paradossalmente il modo più efficace per toglierli di mezzo è usare arco e frecce," sorrise Emily, notando la tuta antiproiettile che avvolgeva il corpo senza vita del malcapitato.
 
 "Occhio a non distrarti, non abbiamo idea di quando lanceranno l'allarme," la redarguì Alony.
 
@@ -30,7 +30,7 @@ Più in là, due guardie allertate dall'allarme si erano accorte della sua prese
 
 Una volta toccata terra, le bombolette si frantumarono, liberando il contenuto. Le guardie osservarono confuse che si trattava di normalissima acqua.
 
-Ma poi, mentre avenzavano, la pozzanghera iniziò a muoversi.
+Ma poi, mentre avanzavano, la pozzanghera iniziò a muoversi.
 
 Delle spire liquide li avvolsero dai piedi fino al torace, per poi raggiungere le braccia.
 

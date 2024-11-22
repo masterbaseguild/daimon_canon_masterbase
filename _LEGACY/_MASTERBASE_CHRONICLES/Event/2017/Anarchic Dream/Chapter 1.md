@@ -1,4 +1,4 @@
-[[Anarchic Dream]]
+[[_LEGACY/_MASTERBASE_CHRONICLES/Event/2017/Anarchic Dream/Anarchic Dream]]
 
 C'era qualcosa di strano in quella stanza. Troppo ordinata, non sembrava affatto vissuta. Il letto, completamente intonso, senza pieghe sulla coperta. Il tavolo, perfettamente liscio, come se nessuna penna, nessun libro universitario ne avesse mai calcato la superficie. E c'era quel vaso di fiori a cui il padrone di casa continuava a buttare l'occhio in apprensione, mentre faceva compagnia al suo ospite inatteso. Perchè? Ora che ci pensava, Max non aveva idea di cosa Jerome facesse nel tempo libero. Erano amici da tanto, ma non avevano mai parlato di molto oltre alle conoscenze che avevano in comune, e i momenti che passavano insieme erano molto sporadici. In fin dei conti, era proprio per questo che Max aveva deciso di fargli una visita a sorpresa.
 Aveva ancora tempo. Il padrone di casa era andato a rispondere al telefono, e Max aveva buona memoria fotografica. Avrebbe rimesso subito tutto a posto e Jerome non si sarebbe accorto di nulla.

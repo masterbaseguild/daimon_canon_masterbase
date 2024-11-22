@@ -226,7 +226,7 @@ L'atmosfera che si respirava alla Masteria era ancora più allegra del solito. D
 
 "Se ci tenete così tanto a perdere...!" Ridacchiò Chri.
 
-"Ooooh, It's on." Rispose Kerrel.
+"Ooooh, it's on." Rispose Kerrel.
 
 
 

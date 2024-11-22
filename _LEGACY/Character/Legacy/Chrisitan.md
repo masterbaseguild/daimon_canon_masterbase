@@ -1,4 +1,4 @@
-[[MasterBase]]
+[[_LEGACY/_MASTERBASE_CHRONICLES/MasterBase]]
 
 Biography:
 batch di reclute giunte durante la seconda guerra master.

@@ -1,4 +1,4 @@
-[[Anarchic Dream]]
+[[_LEGACY/_MASTERBASE_CHRONICLES/Event/2017/Anarchic Dream/Anarchic Dream]]
 
 Mentre si recava a scuola, Max notò nel parco un capannello di bambini che osservavano incuriositi strane macchie nere, simili a bruciature, sparse per il prato.
 Ridacchiando leggermente, proseguì.

@@ -1,4 +1,4 @@
-[[MasterBase]]
+[[_LEGACY/_MASTERBASE_CHRONICLES/MasterBase]]
 
 **8 Founding Masters**
 
