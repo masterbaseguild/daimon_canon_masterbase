@@ -4,7 +4,7 @@
 - Nephasto: studious, ex mage, archivist
 - Garo covert ops (ethereal hook), solar facade, doomer personality, indecisive
 - Emily: covert ops (bow and traps), solar
-- The Wall: amputee, motivational, acrobatic rescuer, motorcycle driver, compress air arm
+- Cri: amputee, motivational, acrobatic rescuer, motorcycle driver, compress air arm
 - Tecmov: engineer, overly extrovert, stubborn
 - Mr. Jey: light mage, overly serious, introvert
 - Winter: extrovert, easygoing, fire mage and acrobat, prideful
@@ -188,7 +188,7 @@
 - Nephasto
 - Garo
 - Emily
-- The Wall
+- Cri
 - Tecmov
 - Mr. Jey
 

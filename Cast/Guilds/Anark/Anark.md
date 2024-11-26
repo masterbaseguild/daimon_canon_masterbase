@@ -18,9 +18,9 @@ L'Anark è stata una [[Guild|gilda]] [[Map/Alpha Sphere/Solar System/Planets/Pla
 
 # Storia
 
-Nel 2016, Theo, ai tempi dodicenne, dopo aver sottratto a [[Cast/Olympus Foundation/Gavil|Gavil]] degli armamenti della [[Cast/Olympus Foundation/Olympus Foundation|Olympus]], li distribuisce ai suoi amici, Euge, PK ed Artifex, e insieme a loro fonda la gilda Anark, un piccolo gruppo di vigilanti, con l'obiettivo di portare finalmente l'ordine nella loro piccola cittadina.
+Nel 2016, Theo, ai tempi dodicenne, dopo aver sottratto a [[Cast/Olympus Foundation/Gavil|Gavil]] degli armamenti della [[Cast/Olympus Foundation/Olympus Foundation|Olympus]], li distribuisce ai suoi amici Euge, PK ed Artifex, e insieme a loro fonda la gilda Anark, un piccolo gruppo di vigilanti, con l'obiettivo di portare finalmente l'ordine nella loro piccola cittadina.
 
-Nel 2017, al gruppo si uniscono Entity e Cri, e poco dopo anche Nephasto. L'arrivo di Entity porta una ventata rivoluzionaria al gruppo, dato che quest'ultimo tende a influenzare i propri compagni affinché si lancino in missioni sempre più grandi e ambiziose. Poi, un giorno, la gilda rimane coinvolta in una schermaglia tra una squadra della Olympus e una della [[Cast/Asgard Foundation/Asgard Foundation|Asgard]].
+Nel 2017 al gruppo si uniscono Entity e Cri, e poco dopo anche Nephasto. L'arrivo di Entity porta una ventata rivoluzionaria al gruppo, dato che quest'ultimo tende a influenzare i propri compagni affinché si lancino in missioni sempre più grandi e ambiziose. Poi, un giorno, la gilda rimane coinvolta in una schermaglia tra una squadra della Olympus e una della [[Cast/Asgard Foundation/Asgard Foundation|Asgard]].
 
 A seguito dell'evento, Gavil, che vi aveva preso parte, propone alla gilda di entrare a far parte del programma di patrocinato della Olympus, e il gruppo, convinto da un entusiasta Entity, accetta.
 
@@ -35,6 +35,6 @@ Un giorno, mentre un gruppo di membri della Anark si trova a ritirare provviste 
 In seguito, la piaga aumenta misteriosamente di aggressività, a tal punto da riuscire a fare breccia in numerose basi della coalizione. Per contenere le perdite, la Nexus è costretta a dichiarare il fallimento della campagna, e richiamare tutte le gilde al quartier generale, per evacuare il pianeta.
 Tuttavia, quando finalmente la gilda si decide a dispiegare il comunicato, è già troppo tardi: la piaga ha fatto irruzione anche nel quartier generale della Nexus, e l'evacuazione si svolge nel caos che ne scaturisce, provocando un numero altissimo di vittime.
 
-Tra queste, si contano numerosissimi membri della Anark, quasi la metà difatti: Artifex, Cyrus, Exitium, Mikyz, PK e Vlad perdono la vita, e per i sopravvissuti (Theo, Euge, Entity, The Wall, Nephasto, Garo e Damashi) questo è un duro colpo. Una volta tornati sulla terra, la gilda si scioglie, per volere di Theo, il quale imputava a Entity la maggior parte della responsabilità, essendo stato lui a spingere oltre il limite ciò che era nato come una gilda di vigilanti senza troppe ambizioni.
+Tra queste, si contano numerosissimi membri della Anark, quasi la metà difatti: Artifex, Cyrus, Exitium, Mikyz, PK e Vlad perdono la vita, e per i sopravvissuti (Theo, Euge, Entity, Cri, Nephasto, Garo e Damashi) questo è un duro colpo. Una volta tornati sulla terra, la gilda si scioglie, per volere di Theo, il quale imputava a Entity la maggior parte della responsabilità, essendo stato lui a spingere oltre il limite ciò che era nato come una gilda di vigilanti senza troppe ambizioni.
 
 In seguito, Entity raccoglierà il testimone, e insieme ad alcuni dei superstiti della Anark fonderà la [[Cast/Guilds/MasterBase/MasterBase|MasterBase]], una nuova gilda con l'obiettivo di riuscire laddove l'Anark aveva fallito.

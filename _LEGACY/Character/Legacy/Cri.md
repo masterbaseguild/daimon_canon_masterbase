@@ -35,4 +35,4 @@
 	- durante il disastro di iphiridia, perde un braccio, sostituito poi da tecmov con un braccio bionico
 	- entra a far parte della masterbase come master fondatore
 - ### Arcs:
-	- wall, confrontato con la vulnerabilita' umana contrapposta all'immortalita' dell'acciaio, si pone l'obiettivo di temprare il suo corpo finche' non fosse giunto allo stesso livello di potenza del suo braccio metallico
+	- cri, confrontato con la vulnerabilita' umana contrapposta all'immortalita' dell'acciaio, si pone l'obiettivo di temprare il suo corpo finche' non fosse giunto allo stesso livello di potenza del suo braccio metallico

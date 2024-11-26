@@ -3,22 +3,24 @@
 
 - [[Cast/Guilds/Anark/Anark|Anark]]
 - [[Cast/Guilds/BaseMasters/BaseMasters|BaseMasters]]
+- [[Cast/Guilds/Crimson Sphere|Crimson Sphere]]
 - [[Cast/Guilds/Blue Owls/Blue Owls|Gufi Blu]]
 - [[Cast/Guilds/CC3/CC3|CC3]]
 - [[Cast/Guilds/Keyplexity/Keyplexity|Keyplexity]]
 - [[Cast/Guilds/Lignum Nobili/Lignum Nobili|Lignum Nobili]]
 - [[Cast/Guilds/MadHeadz/MadHeadz|MadHeadz]]
 - [[Cast/Guilds/MasterBase/MasterBase|MasterBase]]
+- [[Cast/Guilds/MiddleEarth|MiddleEarth]]
 - [[Cast/Guilds/Navirad/Navirad|Navirad]]
+- [[Cast/Guilds/New Group|New Group]]
+- [[Cast/Guilds/Nexus|Nexus]]
 - [[Cast/Guilds/Romita/Romita|Romita]]
+- [[Cast/Guilds/SoS|SoS]]
 - [[Cast/Guilds/SpaceFox/SpaceFox|SpaceFox]]
 - [[Cast/Guilds/SpaceHub/SpaceHub|SpaceHub]]
 - [[Cast/Guilds/Steeleaf/Steeleaf|Steeleaf]]
 - [[Cast/Guilds/World Order/World Order|World Order]]
 - [[Cast/Guilds/Young Fighters/Young Fighters|Young Fighters]]
-- [[Cast/Guilds/New Group|New Group]]
-- [[Cast/Guilds/Nexus|Nexus]]
-- [[Cast/Guilds/SoS|SoS]]
 
 # Organizzazioni
 

@@ -1,3 +1,3 @@
 [[Anark]]
 
-Reclutato da Legend
+Reclutato da Cri

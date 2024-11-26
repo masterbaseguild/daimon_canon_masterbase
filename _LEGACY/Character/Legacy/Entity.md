@@ -28,7 +28,7 @@
 - ### Alignment:
 	- ex-membro della anark
 	- leader degli 8 masters fondatori
-	- fratello di wall e cugino di grosta
+	- fratello di cri e cugino di grosta
 - ### Personality:
 	- da definire
 - ### Backstory:
