@@ -2,8 +2,8 @@ I MadHeadz sono stati una [[Guild|gilda]] della [[Map/Alpha Sphere/Alpha Sphere|
 
 # Membri passati
 
-- [[Donny]] (leader)
-- [[Neiro]]
+- [[Cast/Guilds/MadHeadz/Donny|Donny]] (leader)
+- [[Cast/Guilds/MadHeadz/Neiro|Neiro]]
 
 # Storia
 
