@@ -20,7 +20,7 @@ Ad ogni push ricevuto dalla repository originale, verrà attivata una GitHub Act
 
 # Questo progetto sarà solo in Italiano?
 
-No, la scelta di cominciare dalla lingua italiana è puramente logistica; l'obiettivo indiscusso è quello di avere un vault ufficiale in Inglese e vari mirror tradotti, dove tutto il materiale verrà automaticamente tradotto tramite Google Translate, ma eventuali traduzioni manuali avranno la precedenza. I dettagli dell'implementazione non sono ancora stati delineati.
+No, la scelta di cominciare dalla lingua italiana è puramente logistica; l'obiettivo indiscusso è quello di avere un vault ufficiale in Inglese e vari mirror tradotti, dove tutto il materiale verrà automaticamente tradotto tramite Google Translate(magari qualcosa che sia meglio di Google Translate), ma eventuali traduzioni manuali avranno la precedenza. I dettagli dell'implementazione non sono ancora stati delineati.
 
 # Altre idee in fase di sperimentazione
 
