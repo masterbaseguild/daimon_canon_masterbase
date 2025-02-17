@@ -48,4 +48,4 @@ Il capo-famiglia notò a quel punto lo stemma triangolare sulla spalla del suo s
 
 "Allora, se non le dispiace, posso offrirle un pieno? Sarebbe il minimo, signor...?"
 
-"Cri."
+"SPECK."
