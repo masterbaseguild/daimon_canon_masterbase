@@ -1,0 +1,2 @@
+
+vorrei tenerli come delle "divinità"  per usarli appunto come forza inspiegabile che muove la vita nel modo in cui vuole ognuno con il proprio scopo finale. per i player vorrei che a posto di essere daimon che lo scopo ultimo sia appunto diventarlo (o almeno in parte) per debellare un BBEG di grado abbastanza alto. I daimon vorrei che non possano interagire direttamente con i personaggi in generale ma piu in modo passivo tipo tirare i fili da dietro per avanazare il loro scopo e usando appunto avatar o creature da loro create o scappate anche per farlo
