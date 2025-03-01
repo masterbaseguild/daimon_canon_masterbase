@@ -1,0 +1,1 @@
+I supplementi strutturali sono una categoria di medicinali studiati per rinforzare la struttura anatomica del corpo umano, specificamente negli aspetti più fragili quando l'utilizzatore è esposto ad elevate accelerazioni.
