@@ -1,8 +1,8 @@
 {
-  "accentColor": "",
+  "accentColor": "#4240ba",
   "cssTheme": "ITS Theme",
   "enabledCssSnippets": [
     "obsidian"
   ],
-  "baseFontSize": 10
+  "baseFontSize": 18
 }

@@ -1,4 +1,4 @@
-La MasterBase atterra su Iphiridia e costruisce una base.
+La Aegifthere atterra su Iphiridia e costruisce una base.
 
  - per prima cosa, drastic inoltra alla gilda l'invito a una campagna sul pianeta iphiridia, promossa dalla gilda nexus. la campagna consiste nella liberazione del pianeta da un misterioso morbo zombie propagatosi negli ultimi anni, previa ricompensa delle gilde partecipanti con parte dei territori che riescono a liberare. dopo essersi consultati, gli anarchici accettano, ma sono consapevoli che servirà una truppa di maggiori dimensioni per compiere l'impresa.
  - entity decide di occuparsene, e fonda insieme a nephasto l'esercito della squadra, chiamato aegifthere. per popolarlo, recluta vlad, cyr, simon ed exitium, mentre suo fratello cri invita miky e radik. l'aegifthere viene traghettata su iphiridia, e iniziano i lavori per la base operativa.

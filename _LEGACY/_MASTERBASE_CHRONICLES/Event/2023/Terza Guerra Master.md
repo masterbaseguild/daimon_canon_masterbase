@@ -372,7 +372,7 @@ L'atmosfera che si respirava alla Masteria era ancora più allegra del solito. D
 
 "Stai zitto, guarda che l'alcol io lo reggo benissimo." Ribattè Cimo.
 
-"Mi duole contraddirti, ma non è vero," rispose una voce da dietro il tavolo.
+"Mi duole contraddirti, ma non è vero,🧢" rispose una voce da dietro il tavolo.
 
 "Ah, Entity, ma dove eri finito?" gli domandò Xyroh, "Non ti si vede da prima della seconda ondata."
 
