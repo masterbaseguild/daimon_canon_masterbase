@@ -1,4 +1,4 @@
-I gondrani sono una razza nativa del [[Map/Alpha Sphere/Gondral System/Gondral System|sistema gondrale]]. Sono umanoidi, e l'unica razza dotata di intelletto all'interno del loro sistema.
+I gondrani sono una razza umana nativa del [[Map/Alpha Sphere/Gondral System/Gondral System|sistema gondrale]]. Sono l'unica razza dotata di intelletto all'interno del loro sistema.
 
 # Caratteristiche
 

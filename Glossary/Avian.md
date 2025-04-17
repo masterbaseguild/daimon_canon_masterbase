@@ -1,1 +1,0 @@
-Gli aviani sono una classe di razze umanoidi, caratterizzate da tratti tipici dei volatili.

@@ -23,4 +23,4 @@ Infine, il propulsore fornisce un ulteriore mezzo per guadagnare accelerazione, 
 
 Essendo molto facile raggiungere accelerazioni altissime e molto brusche, per i piloti più estremi è consigliato l'uso di [[Glossary/Structural Supplements|supplementi strutturali]], una categoria di medicinali che rafforzano gli elementi più fragili dell'anatomia umana in caso di elevate accelerazioni (come ossa e vasi sanguigni).
 
-Non tutti ne hanno però bisogno: alcune razze, come gli [[Glossary/Avian|Aviani]], sono naturalmente propense a elevate accelerazioni, ed è possibile sfruttare gran parte delle tecniche magiche relative alla [[Glossary/Magic School of Flight|Scuola di Volo]] per sortire temporaneamente lo stesso effetto dei medicinali.
+Non tutti ne hanno però bisogno: alcune razze, come gli [[Races/Radahian|Aviani]], sono naturalmente propense a elevate accelerazioni, ed è possibile sfruttare gran parte delle tecniche magiche relative alla [[Glossary/Magic School of Flight|Scuola di Volo]] per sortire temporaneamente lo stesso effetto dei medicinali.

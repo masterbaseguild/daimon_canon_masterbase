@@ -1,7 +1,7 @@
 # Appearance
 
 - ### Gender: male
-- ### Race: [[Gondran]]
+- ### Race: [[Races/Gondran]]
 - ### Body:
 	- vedi concepts
 - ### Outfit:

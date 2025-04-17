@@ -1,6 +1,6 @@
 # Gender: M
 # Race:
-[[Gondran]]
+[[Races/Gondran]]
 # Hairstyle:
 [[Ereh]]
 

@@ -1,0 +1,3 @@
+- anime
+- eterei
+- campi di influenza dei daimon ("interferenza per tenere legati i mondi")

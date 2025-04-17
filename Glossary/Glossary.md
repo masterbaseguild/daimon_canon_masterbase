@@ -9,7 +9,7 @@
 
 # G
 
-- [[Glossary/Gondran|Gondrano]]
+- [[Races/Gondran|Gondrano]]
 - [[Glossary/Guild|Gilda]]
 
 # M

@@ -1,6 +1,8 @@
 
 # [[Cast/Cast|Personaggi]]
 
+# [[Races/Races|Races]]
+
 # [[Glossary/Glossary|Glossario]]
 
 # [[Map/Map|Mappa]]

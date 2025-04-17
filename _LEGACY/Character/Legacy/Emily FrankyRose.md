@@ -1,7 +1,7 @@
 # Appearance
 
 - ### Gender: female
-- ### Race: [[Gondran]]
+- ### Race: [[Races/Gondran]]
 - ### Body: 
 	- vedi concepts
 - ### Outfit:
