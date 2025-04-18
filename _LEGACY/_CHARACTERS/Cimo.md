@@ -16,6 +16,6 @@
 - coda gondrana
 # Equipment:
 - [[Master Heavy Armor]]
-- [[Seed of Nymaera]]
+- [[_LEGACY/Item/Seed of Nymaera]]
 - [[Organic Magic]]
-	- [[Plant Magic]]
+	- [[_LEGACY/Item/Plant Magic]]

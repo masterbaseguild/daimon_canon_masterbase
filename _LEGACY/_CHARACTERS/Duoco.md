@@ -1,6 +1,6 @@
 # Gender: M
 # Race:
-[[Earthling]]
+[[_LEGACY/_RACES/Earthling]]
 # Hairstyle:
 (da definire)
 

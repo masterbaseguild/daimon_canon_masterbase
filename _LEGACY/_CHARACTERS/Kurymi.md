@@ -1,6 +1,6 @@
 # Gender: F
 # Race:
-[[Earthling]]
+[[_LEGACY/_RACES/Earthling]]
 # Hairstyle:
 (hairstyle)
 
@@ -16,6 +16,6 @@
 - n/a
 # Equipment:
 - [[Master Zweihander]]
-- [[Soul Magic]]
+- [[_LEGACY/Item/Soul Magic]]
 	- [[Soul Stealer]]
 - [[Jack of All Trades]]

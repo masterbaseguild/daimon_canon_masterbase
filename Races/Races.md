@@ -1,39 +1,41 @@
-
 # Razze elfiche
 
-- Cyriani
-
-# Razze orchesche
-
-- Catai
+- [[Races/Aelfirth|Aelfirth]]
+- [[Races/Cyrian|Ciriani]]
 
 # Razze umane
 
-- Terrestri
+- [[Races/Advern|Adverni]]
 - [[Races/Gondran|Gondrani]]
-- Primordi
-- Kodai
+- [[Races/Kodai|Kodai]]
+- [[Races/Primord|Primordi]]
+- [[Races/Earthling|Terrestri]]
 
-# Razze driadiche
+# Razze orchesche
 
-- Gaioti
-
-# Razze tritoniche
-
-- Mavei
-
-# Razze draconiche
-
-- Viverni
+- [[Races/Catai|Catai]]
+- [[Races/Miroid|Miroidi]]
 
 # Razze aviane
 
 - [[Races/Radahian|Radahi]]
 
-# Razze lucane
+# Razze driadiche
 
-- Termi
+- [[Races/Gaian|Gaioti]]
+
+# Razze tritoniche
+
+- [[Races/Maveus|Mavei]]
+
+# Razze draconiche
+
+- [[Races/Vivern|Viverni]]
 
 # Razze leonine
 
-- Quiladi
+- [[Races/Quiladee|Quiladi]]
+
+# Razze lucane
+
+- [[Races/Termian|Termi]]

@@ -1,0 +1,1 @@
+Gli aelfirth sono una razza elfica nativa del [[Map/Beta Sphere/Radial System/Planet Syteel|pianeta Syteel]].

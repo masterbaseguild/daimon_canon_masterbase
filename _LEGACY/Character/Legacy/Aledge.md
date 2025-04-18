@@ -1,7 +1,7 @@
 # Appearance
 
 - ### Gender: male
-- ### Race: [[Primord]]
+- ### Race: [[_LEGACY/_RACES/Primord]]
 - ### Body:
 	- vedi concepts
 - ### Outfit:

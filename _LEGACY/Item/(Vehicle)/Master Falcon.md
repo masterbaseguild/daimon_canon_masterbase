@@ -1,3 +1,3 @@
-[[_LEGACY/_MASTERBASE_CHRONICLES/MasterBase]]
+[[_LEGACY/(Projects)/MasterBase Chronicles/MasterBase]]
 
 Battle

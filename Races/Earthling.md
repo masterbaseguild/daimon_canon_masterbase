@@ -1,0 +1,1 @@
+I terrestri sono una razza umana nativa del [[Map/Alpha Sphere/Solar System/Planets/Planet Earth/Planet Earth|pianeta Terra]].

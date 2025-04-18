@@ -1,6 +1,6 @@
 # Gender: M
 # Race:
-[[Earthling]]
+[[_LEGACY/_RACES/Earthling]]
 # Hairstyle:
 [[Medium Back Upper Brush]]
 
@@ -15,9 +15,9 @@
 # Traits:
 - n/a
 # Equipment:
-- [[Solid Bending]]
-	- [[Metal Bending]]
+- [[_LEGACY/Item/Solid Bending]]
+	- [[_LEGACY/Item/Metal Bending]]
 		- [[Insect Constructs]]
-- [[Soul Magic]]
+- [[_LEGACY/Item/Soul Magic]]
 - Multiple [[Master Concentrated Metal Charge]]
 - [[Master Flail]]

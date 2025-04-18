@@ -1,0 +1,1 @@
+Il pianeta Syteel è un pianeta abitabile situato nel [[Map/Beta Sphere/Radial System/Radial System|sistema radiale]].

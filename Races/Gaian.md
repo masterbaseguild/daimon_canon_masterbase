@@ -1,0 +1,1 @@
+I gaioti sono una razza driadica nativa del [[Map/Alpha Sphere/Pyrean System/Planet Gaia|pianeta Gaia]].

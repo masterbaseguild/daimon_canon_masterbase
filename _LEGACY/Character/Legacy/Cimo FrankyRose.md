@@ -11,7 +11,7 @@
 # Combat
 
 - ### Weapons:
-	- [[Seed of Nymaera]]
+	- [[_LEGACY/Item/Seed of Nymaera]]
 
 - ### Skills:
 	- (abandoned) fourarms

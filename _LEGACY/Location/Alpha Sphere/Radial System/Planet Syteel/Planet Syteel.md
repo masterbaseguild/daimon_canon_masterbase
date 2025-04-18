@@ -1,4 +1,4 @@
-[[Radial System]]
+[[_LEGACY/Location/Alpha Sphere/Radial System/Radial System]]
  
  - Un pianeta tecnologicamente arretrato, all'incirca intorno all'epoca medioevale.
  - I Masters lo individuano, e decidono di usarlo come base operativa.

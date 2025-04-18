@@ -1,0 +1,1 @@
+Il pianeta Ciria è un pianeta abitabile situato nel [[Map/Alpha Sphere/Merial System/Merial System|sistema meriale]].

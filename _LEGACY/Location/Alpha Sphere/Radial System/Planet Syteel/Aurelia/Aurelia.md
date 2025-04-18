@@ -1,1 +1,1 @@
-[[Planet Syteel]]
+[[_LEGACY/Location/Alpha Sphere/Radial System/Planet Syteel/Planet Syteel]]

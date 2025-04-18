@@ -1,4 +1,4 @@
-[[_LEGACY/_MASTERBASE_CHRONICLES/MasterBase]]
+[[_LEGACY/(Projects)/MasterBase Chronicles/MasterBase]]
 
 Yosef Kenny
 Sopravvissuto al massacro della Famiglia Kenny, aveva 14 anni

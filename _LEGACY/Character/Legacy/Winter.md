@@ -1,7 +1,7 @@
 # Appearance
 
 - ### Gender: male
-- ### Race: [[Earthling]]
+- ### Race: [[_LEGACY/_RACES/Earthling]]
 - ### Body:
 	- capelli mossi bruni
 - ### Outfit:

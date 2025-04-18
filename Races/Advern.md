@@ -1,0 +1,1 @@
+Gli adverni sono una razza umana nativa del [[Map/Beta Sphere/Radial System/Planet Syteel|pianeta Syteel]].

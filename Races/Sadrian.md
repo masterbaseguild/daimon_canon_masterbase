@@ -1,0 +1,1 @@
+I sadriani sono una razza draconica nativa del [[Map/Gamma Sphere/Sadrial System/Planet Sadrium|pianeta Sadrium]].

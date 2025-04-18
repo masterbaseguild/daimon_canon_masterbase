@@ -1,0 +1,1 @@
+Il pianeta Cathum è un pianeta abitabile situato nel [[Map/Alpha Sphere/Gruntal System/Gruntal System|sistema gruntale]].

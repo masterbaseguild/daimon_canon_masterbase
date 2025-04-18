@@ -1,4 +1,4 @@
-[[_LEGACY/_MASTERBASE_CHRONICLES/MasterBase]]
+[[_LEGACY/(Projects)/MasterBase Chronicles/MasterBase]]
 
 Membro di SpaceFox
 Durante la Prima Guerra Master, segue Aledge e si unisce alla MasterBase

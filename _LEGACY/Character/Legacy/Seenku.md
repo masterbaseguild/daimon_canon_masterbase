@@ -7,7 +7,7 @@
 - ### Outfit:
 	- armatura pesante
 	- divisa master
-	- [[Master wing support]]
+	- [[_LEGACY/Item/Master wing support]]
 
 # Combat
 

@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"358e80a321d86466","type":"text","text":"Draconids","x":-755,"y":-174,"width":250,"height":60},
+		{"id":"df86b498cebc6626","type":"text","text":"Wyvern","x":-505,"y":13,"width":250,"height":60},
+		{"id":"26b9ee75c2b59d61","type":"text","text":"Hydra","x":-314,"y":146,"width":250,"height":60},
+		{"id":"b9a03f78461f0eec","type":"text","text":"Dragon","x":-219,"y":-344,"width":250,"height":60},
+		{"id":"85347f37fd241330","type":"text","text":"Scylla","x":-219,"y":460,"width":250,"height":60},
+		{"id":"2ba33da35bf46cb6","type":"text","text":"Lindworm","x":-120,"y":-17,"width":250,"height":60},
+		{"id":"b842e4b572e113c8","type":"text","text":"Shin","x":-15,"y":206,"width":250,"height":60},
+		{"id":"06d8a648365d86ee","type":"text","text":"Wirm","x":175,"y":-140,"width":250,"height":60},
+		{"id":"a2f443f3872d0bb9","type":"text","text":"Amphytheres","x":268,"y":306,"width":250,"height":60},
+		{"id":"072617c98c0725d6","type":"text","text":"Quetzal","x":425,"y":-256,"width":250,"height":60},
+		{"id":"671fb894fcb628c4","type":"text","text":"Phoenix","x":506,"y":-519,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"51ea2ee627ab019c","fromNode":"b9a03f78461f0eec","fromSide":"bottom","toNode":"358e80a321d86466","toSide":"top"},
+		{"id":"7693f80ee3b3911d","fromNode":"b9a03f78461f0eec","fromSide":"bottom","toNode":"df86b498cebc6626","toSide":"top"},
+		{"id":"14a4a087dfb7ab12","fromNode":"26b9ee75c2b59d61","fromSide":"bottom","toNode":"85347f37fd241330","toSide":"top"},
+		{"id":"239955dbd6e7f6f7","fromNode":"b9a03f78461f0eec","fromSide":"bottom","toNode":"26b9ee75c2b59d61","toSide":"top"},
+		{"id":"74b03e39e53b3d90","fromNode":"b9a03f78461f0eec","fromSide":"bottom","toNode":"2ba33da35bf46cb6","toSide":"top"},
+		{"id":"7d6e728a7c7802d2","fromNode":"b9a03f78461f0eec","fromSide":"bottom","toNode":"06d8a648365d86ee","toSide":"top"},
+		{"id":"a54c8cc9c97b2369","fromNode":"b9a03f78461f0eec","fromSide":"bottom","toNode":"072617c98c0725d6","toSide":"top"},
+		{"id":"0f35f2c136ca0c3a","fromNode":"b842e4b572e113c8","fromSide":"bottom","toNode":"85347f37fd241330","toSide":"top"},
+		{"id":"fac3e7c4711b4b27","fromNode":"06d8a648365d86ee","fromSide":"bottom","toNode":"2ba33da35bf46cb6","toSide":"top"},
+		{"id":"05c0cddca728c172","fromNode":"06d8a648365d86ee","fromSide":"bottom","toNode":"b842e4b572e113c8","toSide":"top"},
+		{"id":"d35724e1f132b9fc","fromNode":"06d8a648365d86ee","fromSide":"bottom","toNode":"a2f443f3872d0bb9","toSide":"top"},
+		{"id":"2576dfe2d90f1ed6","fromNode":"072617c98c0725d6","fromSide":"bottom","toNode":"a2f443f3872d0bb9","toSide":"top"},
+		{"id":"11fed03bae33ad8b","fromNode":"671fb894fcb628c4","fromSide":"bottom","toNode":"072617c98c0725d6","toSide":"top"}
+	]
+}

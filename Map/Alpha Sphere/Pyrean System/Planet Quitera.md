@@ -1,0 +1,1 @@
+Il pianeta Quitera è un pianeta abitabile situato nel [[Map/Alpha Sphere/Pyrean System/Pyrean System|sistema pireo]].
