@@ -1,3 +1,0 @@
-[[Keyplexity]]
-
-Membro della Keyplexity.

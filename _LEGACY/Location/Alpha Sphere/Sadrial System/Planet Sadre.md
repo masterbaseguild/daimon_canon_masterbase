@@ -1,1 +1,0 @@
-[[_LEGACY/Location/Alpha Sphere/Sadrial System/Sadrial System]]

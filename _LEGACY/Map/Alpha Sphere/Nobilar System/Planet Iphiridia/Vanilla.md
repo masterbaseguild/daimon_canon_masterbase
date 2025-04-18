@@ -1,0 +1,1 @@
+[[_LEGACY/Map/Alpha Sphere/Nobilar System/Planet Iphiridia/Planet Iphiridia]]

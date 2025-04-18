@@ -1,3 +1,0 @@
-[[NextWare]]
-
-Sviluppatore della NextWare

@@ -1,3 +1,0 @@
-[[Anark]]
-
-Martire dell'Anark

@@ -1,3 +1,0 @@
-[[Arpeggio]]
-
-Membro della Arpeggio.

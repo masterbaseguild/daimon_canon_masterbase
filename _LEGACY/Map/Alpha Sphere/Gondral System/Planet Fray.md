@@ -1,0 +1,1 @@
+[[_LEGACY/Map/Alpha Sphere/Gondral System/Gondral System]]

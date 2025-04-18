@@ -1,3 +1,0 @@
-[[Anark]]
-
-Reclutato da Cri

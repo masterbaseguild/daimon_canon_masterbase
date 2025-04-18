@@ -1,6 +1,0 @@
-[[Planet]]
-
-# Phylum:
-
-- Umanoide
-- caratteristica

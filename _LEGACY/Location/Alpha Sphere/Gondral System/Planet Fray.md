@@ -1,1 +1,0 @@
-[[Gondral System]]

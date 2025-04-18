@@ -1,3 +1,0 @@
-[[Anark]]
-
-Membro dell'Anark
