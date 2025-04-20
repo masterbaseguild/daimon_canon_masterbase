@@ -1,1 +1,1 @@
-I catai sono una razza orchesca nativa del [[Map/Alpha Sphere/Gruntal System/Planet Cathum/Planet Cathum|pianeta Cathum]].
+I catai sono una razza orchesca nativa del [[Planet Cathum|pianeta Cathum]].

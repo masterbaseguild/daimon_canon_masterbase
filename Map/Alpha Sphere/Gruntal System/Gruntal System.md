@@ -2,4 +2,4 @@ Il sistema gruntale è un sistema di pianeti situato nella [[Map/Alpha Sphere/Al
 
 # Pianeti
 
-- [[Map/Alpha Sphere/Gruntal System/Planet Cathum/Planet Cathum|Pianeta Cathum]]
+- [[Planet Cathum|Pianeta Cathum]]
