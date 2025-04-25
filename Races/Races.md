@@ -31,6 +31,7 @@
 # Razze draconiche
 
 - [[Races/Vivern|Viverni]]
+- [[Races/Partian|Partian]]
 
 # Razze leonine
 

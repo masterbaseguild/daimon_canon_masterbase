@@ -1,7 +1,7 @@
 
 # [[Cast/Cast|Personaggi]]
 
-# [[Races/Races|Races]]
+# [[Races/Races|Razze]]
 
 # [[Glossary/Glossary|Glossario]]
 
@@ -9,4 +9,4 @@
 
 # [[Timeline/Timeline|Linea Temporale]]
 
-# [[Stories/Stories|Stories]]
+# [[Stories/Stories|Storie]]
