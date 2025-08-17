@@ -1,0 +1,1 @@
+[[_WIP/_LEGACY/Map/Alpha Sphere/Gondral System/Gondral System]]

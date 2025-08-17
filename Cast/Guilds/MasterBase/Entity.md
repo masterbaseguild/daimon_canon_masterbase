@@ -8,7 +8,7 @@ In seguito, Entity fonda la [[Cast/Guilds/MasterBase/MasterBase|MasterBase]] ins
 
 Con il tempo, tuttavia, il rapporto con alcuni dei suoi compagni va peggiorando, il che lo porta ad assumere un comportamento tirannico e diffidente. Le cattive scelte di gestione di Entity conducono la gilda in una spirale di decadimento, culminata con la quasi totale distruzione della [[Glossary/StarBase|StarBase]] principale, e il disperdersi dei membri.
 
-Entity decide di ritirarsi in solitudine sul [[_LEGACY/Map/Alpha Sphere/Nobilar System/Planet Iphiridia/Planet Iphiridia|pianeta Iphiridia]], abitando le rovine della base.
+Entity decide di ritirarsi in solitudine sul [[_WIP/_LEGACY/Map/Alpha Sphere/Nobilar System/Planet Iphiridia/Planet Iphiridia|pianeta Iphiridia]], abitando le rovine della base.
 
 Dopo aver passato tre anni in solitudine a riflettere sulle proprie azioni, Entity si sente ora pronto a riprovarci, e porre rimedio agli errori commessi; ha radunato un nuovo team, e con l'aiuto dei suoi compagni sta lavorando per far risorgere la gilda dalle ceneri.
 
