@@ -1,5 +1,68 @@
 
-Estensione del file nodi (non l'ho committato al momento e sono da un'altra postazione)
+Un documento contenente tutti i nodi fondamentali dell'universo, sugli assi spazio-temporali.
+
+# Space
+
+(Solar System)
+- Earth United Nations
+- Olympus
+- Asgard
+- Anark
+- MasterBase
+- NextWare
+- Keyplexity
+
+(Gondral System)
+- Gondran Empire
+- Franky
+- Rose
+- Rose Revamp
+
+(Nobilar System)
+- Anark
+- MasterBase
+- Navirad
+- Nexus
+- Keyplexity
+- Middle Earth
+- Ares
+- Hyplex
+
+- Testians
+- Stemiates
+- Keroids
+
+(Radial System)
+- (Sytans)
+- (Aelfirth Empire)
+- (Advernian League)
+- (Kreyfurians)
+- (Paqinrades)
+- (Miroids)
+
+(Universe)
+- (Xadrium)
+- MasterBase
+- Junge
+- Netcom
+- SpaceFox
+- World Order
+- Athena
+- Lignum Nobili
+- Blue Owls
+- Navirad
+- Tech Priest
+- Karkoon Gamma
+- MadHeads
+- SpaceHub
+- New Group
+- SoS
+
+(Galathaar)
+- Unity
+- Liberty
+
+# Time
 
 - SpaceFox vs World Order
 - Nascita di Theo

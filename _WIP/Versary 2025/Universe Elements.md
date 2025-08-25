@@ -15,7 +15,7 @@ Il viaggio ftl (faster than light) è reso possibile da warp routes e warp gates
 
 # Resource Network
 
-Risorse e merci possono viaggiare tramite la rete di trasporti, a bordo di appositi vettori, oppure essere incanalate attraverso infrastrutture alternative dedicate alla specifica risorsa. Ad esempio, su un pianeta si possono avere tubature per il trasporto di acqua, carburante gassoso o carburante liquido, mentre tra un pianeta e l'altro si possono avere rotte per il trasferimento di energia elettrica sotto forma di raggi luminosi. Alcuni warp gate possono anche avere rotte dedicate al trasferimento di un flusso di risorse.
+Risorse e merci possono viaggiare tramite la rete di trasporti, a bordo di appositi vettori, oppure essere incanalate attraverso infrastrutture alternative dedicate alla specifica risorsa. Ad esempio, su un pianeta si possono avere tubature per il trasporto di acqua, carburante gassoso o carburante liquido, mentre tra un pianeta e l'altro si possono avere rotte per il trasferimento di energia elettrica sotto forma di raggi luminosi. Alcuni warp gate possono anche avere rotte dedicate al trasferimento di un flusso continuo di risorse.
 
 # Information Network
 

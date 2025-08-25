@@ -1,0 +1,1 @@
+Il progetto Mecenate è un'iniziativa della [[Cast/Olympus Foundation/Olympus Foundation|fondazione Olympus]] volto alla formazione di giovani [[Guild|gilde]] di [[Quester|questers]], con l'obiettivo di costruire una rete di alleati dalle fondamenta.
