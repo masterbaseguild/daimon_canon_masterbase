@@ -35,3 +35,27 @@
 - alone e gli altri partecipanti alla rivolta vandalizzano la masterbase, disegnando graffiti anti-dittatura
 - entity stringe la mano a haude, con i master e l'alto consiglio della olympus intorno
 - la masterbase, danneggiata e in fiamme, che precipita
+
+# Doppiatori
+
+- Andre: John Drastic
+- Duoco: Lee
+- Sara: Mora
+- Garo: Garo
+- Bitto: Wisla
+- Ale: Phantom
+- Entity: Entity
+- Tecmov: Tecmov
+- Cimo: Cimo
+
+# Testi
+
+- (formale, è una mail burocratica, contrapponendosi all'artwork molto dinamico della anark in azione) "In conclusione, ritengo che l'iscrizione della gilda Anark al progetto di patrocinato della fondazione sarebbe un investimento proficuo per il futuro di entrambe le parti coinvolte. Cordiali saluti, John Drastic."
+- (sempre formale, ma molto più agitato) "Comunicato urgente: è stata indetta un'evacuazione generale, tutti i dispiegamenti sono richiamati con effetto immediato al quartier generale per le procedure di imbarco. Ripeto..."
+- (entusiasta, tecmov è molto appassionato di quello che fa e fiero del suo lavoro) "Ci sono 6 diffusori atmosferici su ciascun lato della base, collegati a una cisterna primaria e una secondaria, ed è molto importante che il sensore di flusso si trovi lontano dal reattore..."
+- (segue il codice ma è disperato, specialmente verso la fine, dove quasi rompe il protocollo per chiedere aiuto) "Ripeto, incrociatore T6B9 a base, siamo sotto attacco, richiediamo ausilio immediato; identificate cinque unità appartenenti alla MasterBase, equipaggiamenti standard. Non sappiamo quanto resisteremo ancora..."
+- (tipo j jonah jameson, propagandistico, condannatorio ma carismatico) "Non c'è dubbio, la superbia della MasterBase è senza pari, costituiscono un pericolo per tutte le altre gilde del sistema e devono essere eliminati il prima possibile."
+- (carismatico e energetico, praticamente garo caster) "Buonasera a tutti, qui è il vostro Garo che vi parla, e benvenuti alla prima giornata della prima lega competitiva della MasterBase! Oggi si scontreranno Warpigs e Litcore..."
+- (monotono, tipo elezione presidente della repubblica) "Bitto, Entity, Bitto, Bitto, Bitto, Bianca, Entity, Bitto, Bitto, Entity, Bitto..."
+- (comunicato ufficiale autoritario, stile fascista) "Dall'ora odierna i membri di seguito elencati sono privati dei loro privilegi da Master, e saranno sottoposti a osservazione preventiva: Albe, Alone, Arima, Axox, Cimo, Dragor, Gianco, Mape e Winter"
+- (formale ma non burocratico, più cordiale e amichevole) "Come potreste aver appreso, la situazione è critica, ragion per cui la Olympus non ha altra scelta che chiedervi aiuto, in virtù dell'alleanza stipulata ormai 5 anni fa. Attendiamo vostre notizie e vi auguriamo un buon proseguimento."
