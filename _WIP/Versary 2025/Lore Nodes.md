@@ -1,0 +1,103 @@
+
+Un documento contenente tutti i nodi fondamentali dell'universo, sugli assi spazio-temporali.
+
+# Space
+
+(Solar System)
+- Earth United Nations
+- Olympus
+- Asgard
+- Anark
+- MasterBase
+- NextWare
+- Keyplexity
+
+(Gondral System)
+- Gondran Empire
+- Franky
+- Rose
+- Rose Revamp
+
+(Nobilar System)
+- Anark
+- MasterBase
+- Navirad
+- Nexus
+- Keyplexity
+- Middle Earth
+- Ares
+- Hyplex
+
+- Testians
+- Stemiates
+- Keroids
+
+(Radial System)
+- (Sytans)
+- (Aelfirth Empire)
+- (Advernian League)
+- (Kreyfurians)
+- (Paqinrades)
+- (Miroids)
+
+(Universe)
+- (Xadrium)
+- MasterBase
+- Junge
+- Netcom
+- SpaceFox
+- World Order
+- Athena
+- Lignum Nobili
+- Blue Owls
+- Navirad
+- Tech Priest
+- Karkoon Gamma
+- MadHeads
+- SpaceHub
+- New Group
+- SoS
+
+(Galathaar)
+- Unity
+- Liberty
+
+# Time
+
+- SpaceFox vs World Order
+- Nascita di Theo
+- Nascita della Anark
+- La Anark viene salvata dal party di John Drastic
+- La Anark si allena sotto la Olympus
+- La Anark costruisce una base su Iphiridia
+- Garo viene inviato sul pianeta Iphiridia dalla famiglia Franky
+- Fuga da Navirad, con Gastico che la abbandona a malincuore
+- Costruzione della base Arpeggio
+- La Anark irrompe nella sala riunioni e ingaggia la delegazione dei Franky
+- La Anark abbandona il paineta Iphiridia
+- Entity e Garo militano nei Dark Angels
+- Entity e Tecmo-V costruiscono la MasterBase
+- 8 Masters Fondatori
+- MasterBase vs Junge
+- Alone osserva il bombardamento della NextWare
+- Spionaggio Bitto e Blu
+- La MasterBase fugge dopo l'operazione MasterCon con l'aiuto di Keyplexity
+- Avvio delle MasterBase Leagues
+- Attacco di Khight
+- La MasterBase reagisce indignata ai servizi diffamatori a opera della Netcom
+- La MasterBase fonda il MasterVerse per fronteggiare la Netcom
+- Le forze congiunte del MasterVerse espugnano la sede della Netcom
+- Adventureblaze emerge tra i leader delle gilde del MasterVerse, con gli ex membri di SpaceFox che lo guardano di malocchio
+- SpaceHub vs MasterBase
+- Ale Power Trip
+- TheCrafter sale al potere, viene fermato da Bitto
+- Colpo di stato ordito da Bitto ai danni di Entity
+- Entity diventa più despota del solito, inimicandosi Alone e la sua cerchia
+- Rivolta del gruppo di Alone, repressa con la forza
+- Arrivo di Athan sulla Terra
+- Haude vs Altera
+- La MasterBase è abbattuta e precipita sulla Terra
+- Versary
+- Programma Trials
+- Ritorno su Iphiridia
+- Shinya vs Franky
