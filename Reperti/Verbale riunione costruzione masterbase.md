@@ -1,0 +1,5 @@
+Tecmov:«Ok, allora ricapitoliamo. Abbiamo **6 diffusori atmosferici su ciascun lato della base, collegati a una cisterna primaria e una secondaria, ed è molto importante che il sensore di flusso si trovi lontano dal reattore**. Se lo montiamo troppo vicino, le vibrazioni falsano i dati e rischiamo di compromettere l’intero ciclo dell’aria. A questo punto io direi di pensare anche a un sistema di backup per le cisterne: se una valvola si blocca in viaggio, non possiamo permetterci di rimanere senza ricambio atmosferico.»
+
+Ing 1:«Sì, sono d’accordo. Possiamo aggiungere un circuito secondario con valvole indipendenti: se il primario va in blocco, il passaggio si attiva automaticamente. Non servirebbe molto spazio in più, ma aumenterebbe l’affidabilità.»
+
+Ing 2:«Ok, ma in quel caso dobbiamo anche rivedere il layout dei condotti. Se aggiungiamo un bypass, l’alloggiamento dei serbatoi si complica e rischiamo di invadere la sezione dei cablaggi criogenici. Serve un compromesso: o spostiamo un paio di linee elettriche, o ripensiamo la disposizione dei diffusori sui lati esterni.»

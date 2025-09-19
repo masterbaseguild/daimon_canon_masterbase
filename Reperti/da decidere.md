@@ -1,0 +1,5 @@
+Il rumore dei colpi scuote lo scafo, vibra in ogni paratia, ogni respiro diventa un peso insopportabile. Le luci di emergenza lampeggiano in rosso, l’aria è satura di fumo e scintille: la plancia trema a ogni impatto, i sistemi cadono uno dopo l’altro. Le comunicazioni interne sono quasi mute, i canali secondari disturbati da interferenze continue. L’equipaggio corre ovunque, qualcuno urla ordini, altri cercano disperatamente di contenere le falle di sistema. Ma non c’è tempo, non c’è tregua.
+
+Ripeto, incrociatore T6B9 a base, siamo sotto attacco, richiediamo ausilio immediato; identificate cinque unità appartenenti alla MasterBase, equipaggiamenti standard. Non sappiamo quanto resisteremo ancora...
+
+Il nemico ci sta chiudendo da ogni lato, i colpi penetrano le difese come fossero carta. Le batterie di prua non rispondono, gli scudi stanno collassando. Ogni secondo che passa potremmo essere ridotti in rottami. Chiunque riceva questo messaggio… vi prego… rispondete!
